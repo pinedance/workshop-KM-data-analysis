@@ -18,70 +18,68 @@
 
 ### 로드맵
 
-### 데이터 준비
+### A. 데이터 준비
 
-데이터 모으기
+1. 데이터 모으기
 
 * 웹스크래핑
 * 데이터 불러오고 저장하기1 ( plain text / csv, tsv, json, yaml )
 * 데이터 불러오고 저장하기2 ( binary / pickle )
 * 데이터 형태 ( vector, matrix, data_frame )
 
-데이터 전처리
+2. 데이터 전처리
 
 * 정규식
 * 필터링과 맵핑
 
-데이터 살펴보기
+3. 데이터 살펴보기
 
 * item and feature ( Documents and term )
 * token and type
 * tokenization (or segmentation)
 
 
-### 데이터 임베딩(정량화)
+### B. 데이터 임베딩(정량화)
 
-기본 전제
+1. Vectorization
 
-* distribution hyperthesis
-
-Vectorization
-
+* 기본 전제 : distribution hyperthesis
 * 1st order vector ( doc-feature matrix / tf, tfidf )
 * 2nd order vector ( feature-feature matrix / co-word )
 * special word embedding ( word2vec )
 
-similarity & distance
+2. similarity & distance
 
-### 숨은 의미 탐색
+### C. 숨은 의미 탐색
 
-Latent Analysis & Topic modeling
+1. Latent Analysis & Topic modeling
 
-* Matrix Decomposition 
 * Latent Analysis & Topic modeling 
+* Matrix Decomposition 
 
-### 암묵지 확인
 
-관찰값과 기대값
+### D. 암묵지 확인
 
-* contigency table ( 2x2 table )
+1. Observed value & Expected value
 
-Co-occurrence (or Collocations)
+* contingency table ( 2x2 table )
+
+2. Co-occurrence (or Collocations)
 
 * co-occurrence measure1 ( co-word )
 * co-occurrence measure2 ( t-value, simple log likelyhood ratio, mutual information )
 
-Comparing
+3. Comparing
 
 * Pearson correlation coefficient
 * chi-square
 
-Clustering
+4. Clustering
 
 * hierarchical clustering
 * knn clustering
 
-Network Analysis
+5. Network Analysis
 
 * node and edge
 * matrix vs list
@@ -89,7 +87,7 @@ Network Analysis
 * visualization
 
 
-### 학습과 예측
+### E. 학습과 예측
 
 Modeling
 
@@ -111,7 +109,7 @@ Neural Networking
 * activation function
 * optimization
 
-### Visualization
+### F. Visualization
 
 dimension reduction
 
