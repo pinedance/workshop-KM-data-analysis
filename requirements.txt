@@ -1,2 +1,4 @@
 glove_python
+tensorflow
+bokeh==1.04
 
