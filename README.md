@@ -24,22 +24,28 @@
 
 * 웹스크래핑
 * 데이터 불러오고 저장하기1 ( plain text / csv, tsv, json, yaml )
-* 데이터 불러오고 저장하기2 ( binary / pickle )
-* 데이터 형태 ( vector, matrix, data_frame )
+* 데이터 불러오고 저장하기2 ( raw object / pickle, joblib )
 
-2. 데이터 전처리
+2. Pre-precessing
 
-* 정규식
-* 필터링과 맵핑
+* mapping & filtering
+* text manipulation & regular expression
 
-3. 데이터 살펴보기
+3. tokenization (or segmentation)
+
+* n-gram
+* 
+
+4. 데이터 살펴보기
 
 * item and feature ( Documents and term )
 * token and type
-* tokenization (or segmentation)
+
 
 
 ### B. 데이터 임베딩(정량화)
+
+* data structure ( vector, matrix, data_frame )
 
 1. Vectorization
 
@@ -50,15 +56,8 @@
 
 2. similarity & distance
 
-### C. 숨은 의미 탐색
 
-1. Latent Analysis & Topic modeling
-
-* Latent Analysis & Topic modeling 
-* Matrix Decomposition 
-
-
-### D. 암묵지 확인
+### C. 암묵지 확인1
 
 1. Observed value & Expected value
 
@@ -66,25 +65,32 @@
 
 2. Co-occurrence (or Collocations)
 
-* co-occurrence measure1 ( co-word )
-* co-occurrence measure2 ( t-value, simple log likelyhood ratio, mutual information )
+* association measure1 ( co-word )
+* association measure2 ( t-value, simple log likelyhood ratio, mutual information )
 
 3. Comparing
 
 * Pearson correlation coefficient
 * chi-square
 
-4. Clustering
+### D. 암묵지 확인2
+
+1. Latent Analysis or Topic modeling
+
+* Latent Analysis or Topic modeling 
+* Matrix Decomposition 
+
+2. Clustering
 
 * hierarchical clustering
 * knn clustering
 
-5. Network Analysis
+3. Network
 
 * node and edge
-* matrix vs list
-* build network
+* build network ( matrix vs list )
 * visualization
+* community detection
 
 
 ### E. 학습과 예측
@@ -140,6 +146,7 @@ please cite it as:
 
 ```yaml
 author : Junho Oh
+e-mail: pinedance@gmail.com
 title : How to Analysis Text Data of Traditional East Asian Medicine
 year : 2019
 month : 02
