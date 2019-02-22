@@ -1,4 +1,4 @@
-# How to Analysis Text Data of Traditional Chinese Medicine
+# How to Analysis Text Data of Traditional East Asian Medicine
 
 강의를 준비하며 데이터 분석에 필요한 내용들을 정리해 본다. 
 
@@ -134,3 +134,15 @@ Plot 4 / Special
 * Sankey Diagram
 
 
+## Citation
+
+please cite it as:
+
+```yaml
+author : Junho Oh
+title : How to Analysis Text Data of Traditional East Asian Medicine
+year : 2019
+month : 02
+keywords : Data Analysis, Traditional East Asian Medicine, Traditional Korean Medicine, Traditional Chinese Medicine
+available from : https://github.com/pinedance/workshop-KM-data-analysis
+```
