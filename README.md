@@ -34,7 +34,7 @@
 3. tokenization (or segmentation)
 
 * n-gram
-* 
+* score based segmentation
 
 4. 데이터 살펴보기
 
@@ -87,8 +87,7 @@
 
 3. Network
 
-* node and edge
-* build network ( matrix vs list )
+* Node and Edge ( Adjacency Matrix / Edge Lists )
 * visualization
 * community detection
 
