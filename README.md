@@ -68,7 +68,7 @@
 * association measure1 ( co-word )
 * association measure2 ( t-value, simple log likelyhood ratio, mutual information )
 
-3. Comparing
+3. [Comparing](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0300_Comparing.ipynb)
 
 * Pearson correlation coefficient
 * chi-square
