@@ -52,6 +52,6 @@ readme_ipynb = {
     
 import json
     
-with open("README.ipynb", 'w', encoding="utf-8") as fl:
+with open("notebooks/README.ipynb", 'w', encoding="utf-8") as fl:
     fl.write( json.dumps( readme_ipynb )  )
  
