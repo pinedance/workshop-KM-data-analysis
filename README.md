@@ -12,34 +12,42 @@
 
 내용과 코드는 앞으로 조금씩 계속 업데이트 될 것이다. 
 
+[PROJECT PAGE](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/README.ipynb)
+
 
 ## Contents
 
 
-### 로드맵
+### A. 데이터 분석 개요
 
-### A. 데이터 준비
+1. [데이터 분석이란]
 
-1. [데이터 모으기](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/A0100_Get_Data.ipynb)
+* 데이터 분석의 목적
+* 데이터 분석의 가정
+
+
+### B. 데이터 준비
+
+1. [데이터 모으기](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0100_Get_Data.ipynb)
 
 * 웹스크래핑
 * 데이터 불러오고 저장하기1 ( plain text / csv, tsv, json, yaml )
 * 데이터 불러오고 저장하기2 ( raw object / pickle, joblib )
 
-2. [Pre-precessing](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/A0200_Preprocessing.ipynb)
+2. [Pre-precessing](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0200_Preprocessing.ipynb)
 
 * mapping & filtering
 * text manipulation & regular expression
 
 3. Tokenization (or Segmentation)
 
-* [n-gram & others](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/A0301_Tokenization.ipynb)
-* [score based segmentation](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/A0302_Tokenization2.ipynb)
+* [n-gram & others](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0301_Tokenization.ipynb)
+* [score based segmentation](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0302_Tokenization2.ipynb)
 
 4. 데이터 살펴보기
 
 * item and feature ( Documents and term )
-* [token and type](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/A0401_Token_and_Type.ipynb)
+* [token and type](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0401_Token_and_Type.ipynb)
 
 
 
@@ -47,35 +55,35 @@
 
 * data structure ( vector, matrix, data_frame )
 
-1. [Vectorization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0100_Vectorization.ipynb)
+1. [Vectorization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0100_Vectorization.ipynb)
 
 * 기본 전제 : distribution hyperthesis
 * 1st order vector ( doc-feature matrix / tf, tfidf )
 * 2nd order vector ( feature-feature matrix / co-word )
 * special word embedding ( word2vec )
 
-2. [Similarity & Distance](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0200_Similarity_and_Distance.ipynb)
+2. [Similarity & Distance](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0200_Similarity_and_Distance.ipynb)
 
 
 ### C. 암묵지 확인1
 
-1. [Observed value & Expected value](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0100_Observed_value_Expected_value.ipynb)
+1. [Observed value & Expected value](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0100_Observed_value_Expected_value.ipynb)
 
 * contingency table ( 2x2 table )
 
-2. [Co-occurrence (or Collocations)](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0200_Co-occurrence_Measures.ipynb)
+2. [Co-occurrence (or Collocations)](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0200_Co-occurrence_Measures.ipynb)
 
 * association measure1 ( co-word )
 * association measure2 ( t-value, simple log likelyhood ratio, mutual information )
 
-3. [Comparing](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/C0300_Comparing.ipynb)
+3. [Comparing](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0300_Comparing.ipynb)
 
 * Pearson correlation coefficient
 * chi-square
 
 ### D. 암묵지 확인2
 
-1. [Latent Analysis or Topic modeling](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0100_Latent_Analysis_or_Topic_Modeling.ipynb)
+1. [Latent Analysis or Topic modeling](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0100_Latent_Analysis_or_Topic_Modeling.ipynb)
 
 * Latent Analysis or Topic modeling 
 * Matrix Decomposition 
@@ -87,8 +95,8 @@
 
 3. Network
 
-* [Node and Edge ( Adjacency Matrix / Edge Lists )](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0301_Node_and_Edge.ipynb)
-* [Visualize_network](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/D0302_Visualize_network.ipynb)
+* [Node and Edge ( Adjacency Matrix / Edge Lists )](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0301_Node_and_Edge.ipynb)
+* [Visualize_network](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0302_Visualize_network.ipynb)
 * community detection
 
 
@@ -114,7 +122,7 @@ Neural Networking
 * activation function
 * optimization
 
-### F. Visualization
+### [F. Visualization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/G0200Plots.ipynb)
 
 dimension reduction
 
@@ -145,7 +153,7 @@ please cite it as:
 
 ```yaml
 author : Junho Oh
-e-mail: pinedance@gmail.com
+e-mail: pinedance@gmail.com / junho@kiom.re.kr
 title : How to Analysis Text Data of Traditional East Asian Medicine
 year : 2019
 month : 02
