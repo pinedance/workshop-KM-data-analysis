@@ -122,7 +122,7 @@ Neural Networking
 * activation function
 * optimization
 
-### [F. Visualization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/G0200Plots.ipynb)
+### [F. Visualization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/G0200_Plots.ipynb)
 
 dimension reduction
 

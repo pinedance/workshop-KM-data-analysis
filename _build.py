@@ -53,5 +53,5 @@ readme_ipynb = {
 import json
     
 with open("notebooks/README.ipynb", 'w', encoding="utf-8") as fl:
-    fl.write( json.dumps( readme_ipynb )  )
+    fl.write( json.dumps( readme_ipynb, ensure_ascii=False )  )
  

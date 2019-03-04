@@ -122,7 +122,7 @@ Neural Networking
 * activation function
 * optimization
 
-### [F. Visualization](*URL*/G0200Plots.ipynb)
+### [F. Visualization](*URL*/G0200_Plots.ipynb)
 
 dimension reduction
 
