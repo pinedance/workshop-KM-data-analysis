@@ -34,15 +34,16 @@
 * 데이터 불러오고 저장하기1 ( plain text / csv, tsv, json, yaml )
 * 데이터 불러오고 저장하기2 ( raw object / pickle, joblib )
 
-2. [Pre-precessing](*URL*/B0200_Preprocessing.ipynb)
+2. Pre-precessing
 
+* [text normalization]((*URL*/B0201_Text_Normalization.ipynb)
+* [text manipulation & regular expression](*URL*/B0202_Preprocessing.ipynb)
 * mapping & filtering
-* text manipulation & regular expression
 
 3. Tokenization (or Segmentation)
 
 * [n-gram & others](*URL*/B0301_Tokenization.ipynb)
-* [score based segmentation](*URL*/B0302_Tokenization2.ipynb)
+* [score based segmentation](*URL*/B0302_Tokenization2.ipynb), [lib](*URL*/B0302_Tokenization3_lib.ipynb)
 
 4. 데이터 살펴보기
 
@@ -160,3 +161,5 @@ month : 02
 keywords : Data Analysis, Traditional East Asian Medicine, Traditional Korean Medicine, Traditional Chinese Medicine
 available from : https://github.com/pinedance/workshop-KM-data-analysis
 ```
+
+© 2019 Junho Oh.
