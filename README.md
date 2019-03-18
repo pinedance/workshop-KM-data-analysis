@@ -97,7 +97,7 @@
 3. Network
 
 * [Node and Edge ( Adjacency Matrix / Edge Lists )](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0301_Node_and_Edge.ipynb)
-* [Visualize_network](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0302_Visualize_network.ipynb)
+* Visualize_network : [1. MDS](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0302_Visualize_network1.ipynb), [2. VOS](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/E0302_Visualize_network2.ipynb)
 * community detection
 
 

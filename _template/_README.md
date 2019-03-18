@@ -97,7 +97,7 @@
 3. Network
 
 * [Node and Edge ( Adjacency Matrix / Edge Lists )](*URL*/E0301_Node_and_Edge.ipynb)
-* [Visualize_network](*URL*/E0302_Visualize_network.ipynb)
+* Visualize_network : [1. MDS](*URL*/E0302_Visualize_network1.ipynb), [2. VOS](*URL*/E0302_Visualize_network2.ipynb)
 * community detection
 
 
