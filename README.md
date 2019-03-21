@@ -36,7 +36,7 @@
 
 2. Pre-precessing
 
-* [text normalization]((https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0201_Text_Normalization.ipynb)
+* [text normalization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0201_Text_Normalization.ipynb)
 * [text manipulation & regular expression](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0202_Preprocessing.ipynb)
 * mapping & filtering
 

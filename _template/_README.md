@@ -36,7 +36,7 @@
 
 2. Pre-precessing
 
-* [text normalization]((*URL*/B0201_Text_Normalization.ipynb)
+* [text normalization](*URL*/B0201_Text_Normalization.ipynb)
 * [text manipulation & regular expression](*URL*/B0202_Preprocessing.ipynb)
 * mapping & filtering
 
