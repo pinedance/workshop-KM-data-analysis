@@ -36,14 +36,14 @@
 
 2. Pre-precessing
 
-* [text normalization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0201_Text_Normalization.ipynb)
+* [text normalization](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0201_Text_Normalization1.ipynb), [lab](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0201_Text_Normalization_lab.ipynb)
 * [text manipulation & regular expression](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0202_Preprocessing.ipynb)
 * mapping & filtering
 
 3. Tokenization (or Segmentation)
 
-* [n-gram & others](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0301_Tokenization.ipynb)
-* [score based segmentation](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0302_Tokenization2.ipynb), [lib](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0302_Tokenization3_lib.ipynb)
+* [n-gram & others](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0301_Tokenization1.ipynb)
+* [score based segmentation](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0302_Tokenization2.ipynb), [lab](https://nbviewer.jupyter.org/github/pinedance/workshop-KM-data-analysis/blob/master/notebooks/B0302_Tokenization_lab.ipynb)
 
 4. 데이터 살펴보기
 
