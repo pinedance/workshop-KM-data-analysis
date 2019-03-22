@@ -36,14 +36,14 @@
 
 2. Pre-precessing
 
-* [text normalization](*URL*/B0201_Text_Normalization.ipynb)
+* [text normalization](*URL*/B0201_Text_Normalization1.ipynb), [lab](*URL*/B0201_Text_Normalization_lab.ipynb)
 * [text manipulation & regular expression](*URL*/B0202_Preprocessing.ipynb)
 * mapping & filtering
 
 3. Tokenization (or Segmentation)
 
-* [n-gram & others](*URL*/B0301_Tokenization.ipynb)
-* [score based segmentation](*URL*/B0302_Tokenization2.ipynb), [lib](*URL*/B0302_Tokenization3_lib.ipynb)
+* [n-gram & others](*URL*/B0301_Tokenization1.ipynb)
+* [score based segmentation](*URL*/B0302_Tokenization2.ipynb), [lab](*URL*/B0302_Tokenization_lab.ipynb)
 
 4. 데이터 살펴보기
 
